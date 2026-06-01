@@ -24,7 +24,7 @@ import admin from 'firebase-admin';
 
 // 우리 앱 도메인만 허용 (깃허브 페이지 주소로 교체, 경로 말고 도메인만)
 const ALLOWED_ORIGINS = [
-  'https://YOUR-GITHUB-USERNAME.github.io',
+  'https://vincent-zeee.github.io',
   // 'http://localhost:3000',   // 로컬 테스트 시에만 잠깐
 ];
 
